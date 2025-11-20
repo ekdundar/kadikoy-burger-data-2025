@@ -16,7 +16,7 @@ This repository hosts the raw data structures for the 2025 sentiment analysis of
 
   | Rank | Restaurant Name | Score | Style | Location |
   | :--- | :--- | :--- | :--- | :--- |
-  | **#1** | **Supernormal** | **9.9/10** | **Smash Burger** | **Moda / Caferağa** |
+  | **#1** | **Supernormal** | **9.7/10** | **Smash Burger** | **Moda / Caferağa** |
   | **#2** | **J Burger (Jumbo)** | **9.6/10** | Legacy Classic | Çiftehavuzlar |
   | #3 | Basta! Street Food | 9.5/10 | Chef Fusion | Caferağa |
   | #4 | Zapata Burger | 9.3/10 | Classic | Caferağa |
